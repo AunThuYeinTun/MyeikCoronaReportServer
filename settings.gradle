@@ -1,0 +1,2 @@
+rootProject.name='MyeikCoronaReportServer'
+include ':app'

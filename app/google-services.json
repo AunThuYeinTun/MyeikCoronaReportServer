@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "620353708491",
+    "firebase_url": "https://corona-report-54b0c.firebaseio.com",
+    "project_id": "corona-report-54b0c",
+    "storage_bucket": "corona-report-54b0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620353708491:android:e0c73ef3a3818abbdf164e",
+        "android_client_info": {
+          "package_name": "com.hippocompany.coronareport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620353708491-eu8fpoagqg2i5m4lb81u8pf5so3ae2qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxBAkYVQ_EY7JLu9jVDd19c0nTF2dlP7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620353708491-eu8fpoagqg2i5m4lb81u8pf5so3ae2qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620353708491:android:53e6a0482d0a8ad1df164e",
+        "android_client_info": {
+          "package_name": "com.hippocompany.myeikcoronareportserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620353708491-eu8fpoagqg2i5m4lb81u8pf5so3ae2qu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxBAkYVQ_EY7JLu9jVDd19c0nTF2dlP7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620353708491-eu8fpoagqg2i5m4lb81u8pf5so3ae2qu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
